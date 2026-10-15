@@ -1,0 +1,1 @@
+# ADG-UnityAds-iOS-Adapter
