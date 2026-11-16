@@ -21,7 +21,7 @@ let package = Package(
         ),
         .package(
             url: "https://github.com/Unity-Technologies/Unity-Ads-Swift-Package",
-            exact: "4.21.0"
+            exact: "4.22.0"
         ),
     ],
     targets: [
@@ -36,8 +36,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ADGUnityAdsAdapter",
-            url: "https://github.com/AdGeneration/ADG-UnityAds-iOS-Adapter/releases/download/4.21.0/ADGUnityAds.xcframework.zip",
-            checksum: "d6aa493e25b35fe5144cc40144ae576f5f8cb67826ad55724311e75389e3f911"
+            url: "https://github.com/AdGeneration/ADG-UnityAds-iOS-Adapter/releases/download/4.22.0/ADGUnityAds.xcframework.zip",
+            checksum: "baad91e62483692b94fc9049147f68ec8869b6d5e6d78753b39875c726fc57dd"
         ),
     ]
 )
